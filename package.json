@@ -1,0 +1,29 @@
+{
+  "name": "websocket_example",
+  "version": "1.0.0",
+  "description": "An example app made by learning websockets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/singhanuj620/websocket_example.git"
+  },
+  "keywords": [
+    "websockets"
+  ],
+  "author": "Anuj Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/singhanuj620/websocket_example/issues"
+  },
+  "homepage": "https://github.com/singhanuj620/websocket_example#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
